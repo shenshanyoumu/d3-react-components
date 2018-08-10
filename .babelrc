@@ -1,0 +1,10 @@
+{
+    "presets": ["env", "react", "stage-0"],
+    "env": {
+        "umd": {
+            "plugins": [
+                "transform-es2015-modules-umd"
+            ]
+        }
+    }
+}
